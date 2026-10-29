@@ -1,0 +1,4 @@
+# FAKE test accounts only (RFC 2606 domains, throwaway passwords) - never put real accounts here
+# address password
+alice@example.org alice-test-pw
+bob@example.net bob-test-pw
